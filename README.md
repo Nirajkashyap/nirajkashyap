@@ -14,7 +14,7 @@
 
 - 📝 I am improving my skills on [React,Javascript,kubernetes,AWS,Cloud](React,Javascript,kubernetes,AWS,Cloud)
 
-- Profile summry : [https://profile-summary-for-github.com/user/nirajkashyap](Niraj Kashyap)
+- Profile summry (https://profile-summary-for-github.com/user/nirajkashyap)
 
 - 💬 Ask me about **javascript**
 
