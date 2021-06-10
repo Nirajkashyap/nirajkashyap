@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nirajkashyap](https://github.com/nirajkashyap)
 
-- 📝 I am improving my skills on [React,Javascript,kubernetes,AWS,Cloud](React,Javascript,kubernetes,AWS,Cloud)
+- 📝 I am improving my skills on [React,Javascript,kubernetes,AWS,Cloud](React,Nextjs,Javascript,Nodejs,NestJS,kubernetes,AWS,Cloud)
 
 - Profile summry (https://profile-summary-for-github.com/user/nirajkashyap)
 
