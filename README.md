@@ -14,6 +14,8 @@
 
 - 📝 I am improving my skills on [React,Javascript,kubernetes,AWS,Cloud](React,Javascript,kubernetes,AWS,Cloud)
 
+- [https://profile-summary-for-github.com/user/nirajkashyap](Profile summry)
+
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **niraj38re@gmail.com**
@@ -23,7 +25,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kashyapniraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashyapniraj/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2498621/niraj-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/2498621/niraj-kashyap" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niraj38re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niraj38re" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@niraj.38.re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@niraj.38.re" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@niraj.38.re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@niraj.38.re" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
