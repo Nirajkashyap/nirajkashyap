@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Xstate(JavaScript State Machine),kubernetes,React**
 
-- 👯 I’m looking to collaborate on [scss validator](https://gitlab.com/niraj-38-re/scss-validator)
+<!-- - 👯 I’m looking to collaborate on [scss validator](https://gitlab.com/niraj-38-re/scss-validator) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/nirajkashyap](https://github.com/nirajkashyap)
 
