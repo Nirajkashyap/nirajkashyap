@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirajkashyap" alt="nirajkashyap" /></a> </p>
 
-- 🌱 I’m currently learning **Xstate(JavaScript State Machine),kubernetes,React**
+- 🌱 I’m currently learning **Xstate(JavaScript State Machine),kubernetes**
 
 <!-- - 👯 I’m looking to collaborate on [scss validator](https://gitlab.com/niraj-38-re/scss-validator) -->
 
