@@ -16,7 +16,7 @@
 
 - Profile summry (https://profile-summary-for-github.com/user/nirajkashyap)
 
-- 💬 Ask me about **javascript**
+<!-- - 💬 Ask me about **javascript** -->
 
 - 📫 How to reach me **niraj38re@gmail.com**
 
