@@ -6,7 +6,7 @@
 
 I am a software engineer passionate about coding, workflows, and building systems that recover gracefully from failures.
 
-Currenlty Working and Exploring on Finite State Machine 
+Currenlty learning on Finite State Machine 
 
 
 
